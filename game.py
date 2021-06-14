@@ -5,7 +5,7 @@ class PlayerProfile:
         self._games_played = []
         self._preferred_server = None
         self._system = None
-        self._comms = "No Mic"
+        self._comms = "No Mics"
         self._time_online = None
         self._time_zone = None
         self._online_status = "Offline"
